@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "CORD CICO BIZ",
+    "slug": "cord-cico-biz",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "android": {
+      "package": "com.cordcico.biz",
+      "versionCode": 1,
+      "permissions": []
+    },
+    "ios": {
+      "bundleIdentifier": "com.cordcico.biz"
+    }
+  }
+}
